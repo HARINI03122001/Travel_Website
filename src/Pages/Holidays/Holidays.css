@@ -1,0 +1,16 @@
+.holiday-page .second-hero-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../../Assets/Images/holiday-hero.webp);
+}
+
+.holiday-page .need-inspiration-section {
+    background-image: url(../../Assets/Images/need-inspiration1.jpg);
+}
+
+.holiday-page .holiday-plan-section{
+    background-image: url(../../Assets/Images/holiday-plan-section.jpg);
+    background-position: center;
+}
+
+.holiday-page .recommended-section .container{
+    background-image: url(../../Assets/Images/recommended-section1.jpg);
+}
